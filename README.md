@@ -1,6 +1,6 @@
 # Hey, I'm Satvik 👋🏻
 
-**Product Manager** who builds things on the side — sometimes useful, always fun.  
+A ** Senior Product Manager** who builds things on the side — sometimes useful, always fun.  
 4+ years shipping fintech & creator products at **Groww** and **Meesho**, impacting 20M+ users. IIT Kharagpur grad. Now building AI-native apps nights & weekends.
 
 ---
