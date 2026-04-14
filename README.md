@@ -28,9 +28,9 @@ A **Senior Product Manager** who builds things on the side — sometimes useful,
 
 - 🖐️ **[Handy](https://github.com/satvikxbansal/Handy)** — A native macOS AI assistant that lives in your menu bar. Reads your screen, switches context per app, remembers conversations per tool — powered by Claude.
 
-- 🏋️ **[Spotter](https://github.com/satvikxbansal/Spotter)** — An iOS AI fitness coaching app using MediaPipe pose detection + LangGraph agent architecture for real-time form feedback and adaptive workouts.
+- 🏋️ **[Spotter](https://github.com/satvikxbansal/Spotter--Mediapipe-)** — An iOS AI fitness coaching app using MediaPipe pose detection + LangGraph agent architecture for real-time form feedback and adaptive workouts.
 
-- 🏎️ **[GridBet](https://github.com/satvikxbansal/GridBet)** — A real-time F1 social prediction tracker with live driver positions on animated circuit maps, AI-generated avatars via Gemini, and a custom probability engine.
+- 🏎️ **[GridBet](https://www.gridbet.live/)** — A real-time F1 social prediction tracker with live driver positions on animated circuit maps, AI-generated avatars via Gemini, and a custom probability engine.
 
 ---
 
