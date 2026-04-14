@@ -1,4 +1,4 @@
-# Hey, I'm Satvik 🇮🇳
+# Hey, I'm Satvik ✌🏻
 
 A **Senior Product Manager** who builds things on the side — sometimes useful, always fun.  
 4+ years shipping fintech & creator products at **Groww** and **Meesho**, impacting 20M+ users. IIT Kharagpur grad. Now building AI-native apps nights & weekends.
@@ -41,7 +41,7 @@ A **Senior Product Manager** who builds things on the side — sometimes useful,
 ---
 
 ### 🎄 Outside of work
-🇮🇳 | 🇵🇱 🇭🇺 🇳🇱 🇦🇹 🇧🇪 🇨🇭 🇸🇬 🇫🇷 🇵🇰 🇮🇩 🇪🇬 🇲🇾
+##### 🇮🇳 | 🇵🇱 🇭🇺 🇳🇱 🇦🇹 🇧🇪 🇨🇭 🇸🇬 🇫🇷 🇵🇰 🇮🇩 🇪🇬 🇲🇾
 
 Paragliding pilot (APPI 02) · Grade 6 violinist · Half marathon in 2:05 · Backpacked 15+ countries · Violinist in Global Sai Symphony Orchestra
 
