@@ -40,6 +40,9 @@ A **Senior Product Manager** who builds things on the side — sometimes useful,
 
 ---
 
-### ⚡ Before the code
+### 🎄 Outside of work
 
-Paragliding pilot (APPI P2) · Grade 6 violinist · Half marathon in 2:05 · Backpacked 15+ countries · Violinist in Global Sai Symphony Orchestra
+:flag-in: | :flag-pl: :flag-hu: :flag-nl: :flag-at: :flag-be: :flag-ch: :flag-sg: :fr: :flag-pk: :flag-id: :flag-eg: :flag-my:
+
+Paragliding pilot (APPI 02) · Grade 6 violinist · Half marathon in 2:05 · Backpacked 15+ countries · Violinist in Global Sai Symphony Orchestra
+
