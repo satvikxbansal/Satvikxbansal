@@ -3,9 +3,6 @@
 **Product Manager** who builds things on the side — sometimes useful, always fun.  
 4+ years shipping fintech & creator products at **Groww** and **Meesho**, impacting 20M+ users. IIT Kharagpur grad. Now building AI-native apps nights & weekends.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvikbansal/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/satvikxbansal)
-
 ---
 
 ### 🛠 Playing with
@@ -37,18 +34,9 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=satvikxbansal&theme=react-dark&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=satvikxbansal&theme=minimal&hide_border=true&area=true" />
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=satvikxbansal&theme=react-dark&hide_border=true&area=true" width="100%" />
-</picture>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satvikxbansal&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=satvikxbansal&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-</p>
+<img src="https://ghchart.rshah.org/satvikxbansal" alt="Satvik's GitHub Contribution Graph" width="100%" />
 
 ---
 
