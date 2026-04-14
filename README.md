@@ -5,7 +5,7 @@ A **Senior Product Manager** who builds things on the side — sometimes useful,
 
 ---
 
-### 🛠 Playing with
+### Playing with
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-1e293b?style=flat-square&logo=anthropic&logoColor=white)
@@ -24,7 +24,7 @@ A **Senior Product Manager** who builds things on the side — sometimes useful,
 
 ---
 
-### 🔨 Currently Building
+### Currently Building
 
 - 🖐️ **[Handy](https://github.com/satvikxbansal/Handy)** — A native macOS AI assistant that lives in your menu bar. Reads your screen, switches context per app, remembers conversations per tool — powered by Claude.
 
@@ -34,13 +34,13 @@ A **Senior Product Manager** who builds things on the side — sometimes useful,
 
 ---
 
-### 📊 Contributions
+### Contributions
 
 <img src="https://ghchart.rshah.org/satvikxbansal" alt="Satvik's GitHub Contribution Graph" width="100%" />
 
 ---
 
-### 🎄 Outside of work
+### Outside of work
 ##### 🇮🇳 | 🇵🇱 🇭🇺 🇳🇱 🇦🇹 🇧🇪 🇨🇭 🇸🇬 🇫🇷 🇵🇰 🇮🇩 🇪🇬 🇲🇾
 
 Paragliding pilot (APPI 02) · Grade 6 violinist · Half marathon in 2:05 · Backpacked 15+ countries · Violinist in Global Sai Symphony Orchestra
