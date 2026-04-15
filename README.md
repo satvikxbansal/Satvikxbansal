@@ -34,7 +34,7 @@ A **Senior Product Manager** who builds things on the side — sometimes useful,
 
 ### Contributions
 
-<img src="https://ghchart.rshah.org/satvikxbansal" alt="Satvik's GitHub Contribution Graph" width="100%" />
+<img src="https://ghchart.rshah.org/409ba5/satvikxbansal" alt="Satvik's GitHub Contribution Graph" width="100%" />
 
 ---
 
